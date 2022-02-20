@@ -88,9 +88,11 @@ ul {display: flex;
 
 
     @media screen(min-width:400px) and (max-width:900px){
-        body{
-            font-size: 8px;
-        }
+        body{ font-family: 'Redressed', cursive;
+            margin: 0px auto;
+            padding: 0px auto;
+            }
+        
         #flex-container {
             display: flex;}
             
