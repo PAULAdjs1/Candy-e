@@ -91,6 +91,17 @@ ul {display: flex;
 
         body{ font-family: 'Comic Sans', cursive;
             }
+            section {
+                margin: 3px;
+            }
+    
+            .borde {
+                margin: 10px;
+                border: 10px solid #7c1010;
+                border-radius: 15px;
+                background: #BCDF97;
+                width: fit-content;
+            }
 
             #encabezado-categoria {
                 border-top: 1px solid #7c1010;
