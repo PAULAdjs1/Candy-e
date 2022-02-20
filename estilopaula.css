@@ -110,6 +110,6 @@ ul {display: flex;
             
             .redondeado {
                 border-radius: 15px; 
-                width: auto;  
+                width: 5%;  
             }
     }
