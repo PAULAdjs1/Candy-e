@@ -91,6 +91,17 @@ ul {display: flex;
 
         body{ font-family: 'Comic Sans', cursive;
             }
+
+            #encabezado-categoria {
+                border-top: 1px solid #7c1010;
+                border-left: 1px solid #7c1010;
+                border-right: 1px solid #7c1010;
+                border-bottom: 11px solid #7c1010;
+                background: #F04F4F;
+                padding-right: 5%;
+                padding-left: 5%;
+                font-size: 20pt;
+            }
         
         #flex-container {
             display: flex;
@@ -104,11 +115,11 @@ ul {display: flex;
         
             figcaption {
                 text-align: center;
-                font-size: 5px;
+                font-size: 5pt;
             }
             
             .redondeado {
                 border-radius: 15px; 
-                width: 5%;  
+                width: 4%;  
             }
     }
