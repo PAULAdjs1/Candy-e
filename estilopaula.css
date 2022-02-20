@@ -1,4 +1,4 @@
-*{ font-family: 'Redressed', cursive;
+*{ font-family: 'Comic Sans', cursive;
 margin: 0;
 padding: 0;
 }
@@ -87,10 +87,9 @@ ul {display: flex;
     }
 
 
-    @media screen(min-width:400px) and (max-width:900px){
-        body{ font-family: 'Redressed', cursive;
-            margin: 0px auto;
-            padding: 0px auto;
+    @media screen(min-width:380px) and (max-width:900px){
+
+        body{ font-family: 'Comic Sans', cursive;
             }
         
         #flex-container {
